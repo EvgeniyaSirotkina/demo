@@ -2,4 +2,4 @@
 
 ## Try it
 
-[https://my-json-server.typicode.com/EvgeniyaSirotkina/demo](https://my-json-server.typicode.com/EvgeniyaSirotkina/demo)
+[https://my-json-server.typicode.com/EvgeniyaSirotkina/demojsondata](https://my-json-server.typicode.com/EvgeniyaSirotkina/demojsondata)
